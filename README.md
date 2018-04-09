@@ -24,4 +24,4 @@ To run the test against Dozer 6.2.0 - which will **fail** - just execute:
 ## Code
 
 All the relevant code resides in the only test class, namely
-`DozerMappingTest.java`.
+`DozerMappingTest.java` (https://github.com/j-be/dozer-one-way-test/blob/master/src/test/java/org/duckdns/owly/dozerOneWayTest/DozerMappingTest.java).
